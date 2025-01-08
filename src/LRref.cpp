@@ -14,5 +14,6 @@ int main() {
     printLValue(a);        // 调用左值引用版本
     printRValue(10);       // 调用右值引用版本
     printRValue(std::move(a)); // 使用 std::move 将 a 转换为右值
+    std::cout <<"a now is "<< a<<std::endl;
     return 0;
 }
