@@ -7,3 +7,6 @@ Using for C++ exercise
 
 25.01.08.1 RyCloud
 	upload and update some new cpp files
+
+25.01.14.1 RyCloud
+	upload a solution of hanoi problem,directlys
